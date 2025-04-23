@@ -1,0 +1,31 @@
+🛠 How to Create a GitHub Free Account:
+Go to the website:
+👉 https://github.com
+
+Click "Sign up" (top right corner).
+
+Fill in basic details:
+
+Username: (Pick anything you like, e.g., coolcoder123).
+
+Email address: (Your real email; you’ll get a verification mail).
+
+Password: (Make it strong — GitHub needs it secure).
+
+Verify your account:
+
+GitHub might show a small puzzle / CAPTCHA to confirm you’re not a bot.
+
+Choose "Free" plan:
+
+GitHub will ask if you want "Free" or "Pro".
+
+Select Free (it gives unlimited public/private repos — perfect for 99% of users).
+
+Skip extra questions (they may ask what you're interested in — you can skip or answer if you want).
+
+Email verification:
+
+Open your email → click on the GitHub verification link.
+
+✅ Done! 🎉 You now have a free GitHub account!
